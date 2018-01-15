@@ -1,0 +1,16 @@
+@import url('href="https://fonts.googleapis.com/css?family=Carter+One"');
+
+.page{
+  font-family: 'Carter One', cursive;
+  background-color:navy;
+  height:100vh;
+  color:yellow;
+  text-align:center;
+  font-size:25px;
+}
+a{
+  color:yellow;
+}
+ul li{
+  list-style-type:none;
+}
